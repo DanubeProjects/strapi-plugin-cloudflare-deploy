@@ -1,5 +1,5 @@
 {
-  "name": "cloudflaredeploy",
+  "name": "@danube-dev/strapi-plugin-cloudflare-deploy",
   "version": "1.0.0",
   "description": "Cloudflare Deploy plugin",
   "strapi": {
