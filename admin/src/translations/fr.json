@@ -1,0 +1,8 @@
+{
+  "home.title": "Déploiement",
+  "home.description": "Déployer vos changements sur Cloudflare Pages",
+  "home.prompt": "Merci de choisir sur quelle instance vous voulez déployer",
+  "home.prompt.confirm": "Etes-vous sûr de vouloir lancer le déploiement ?",
+  "home.busy": "Lancement de la compilation, merci de patienter...",
+  "home.button.publish": "Déployer sur "
+}

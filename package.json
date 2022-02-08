@@ -1,0 +1,29 @@
+{
+  "name": "cloudflaredeploy",
+  "version": "1.0.0",
+  "description": "Cloudflare Deploy plugin",
+  "strapi": {
+    "name": "Cloudflare Deploy",
+    "description": "Description of cloudflaredeploy plugin",
+    "kind": "plugin"
+  },
+  "author": {
+    "name": "Danube"
+  },
+  "maintainers": [
+    {
+      "name": "Danube"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@strapi/utils": "^4.0.7"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "4.x"
+  }
+}
